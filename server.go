@@ -22,5 +22,6 @@ func fooHandler(w http.ResponseWriter, r *http.Request) {
 func main() {
 	http.HandleFunc("/time", fooHandler)
 	// go go go go
+	// go go go go
 	log.Fatal(http.ListenAndServe(":9875", nil))
 }
