@@ -1,2 +1,3 @@
 First task for programming architectures class
-Anna and Marat IM-21   
+Anna and Marat IM-21
+go go go go
